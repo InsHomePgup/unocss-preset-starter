@@ -1,7 +1,7 @@
 <template>
   <div>
     <div class="custom-rule">
-      Unpreset Starter
+      uno preset Starter
     </div>
     <div class="flex">
       <div class="bg-white text-center col-3">
@@ -14,11 +14,12 @@
         Col 5
       </div>
     </div>
+    <div class="flex">
+      <div class="col-15">
+      </div>
+    </div>
   </div>
 </template>
 
 <style>
-:root{
-  background: #222;
-}
 </style>
